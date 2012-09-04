@@ -74,7 +74,7 @@ class AVP(object):
         self.dcc = dcc_instance
         self.my_cmd_code = cmd_code
         
-        self.avp = {}
+        self.avp                      = {}
         self.avp['AVP_CODE']          = int(avp_code)
         self.avp['AVP_FLAG']          = 0x00
         self.avp['AVP_LENGTH']        = 0x00
