@@ -18,7 +18,7 @@ class DiameterIdentity(OctetString):
             的DiameterIdentity。
         FQDN               = fully qualified domain name
         
-    TODO: 具体实现：源自OctetString,但是需要校验一下FQDN的正确性
+    //TODO:具体实现：源自OctetString,但是需要校验一下FQDN的正确性
     '''
     def __init__(self,
                  cmd_code     = (),
