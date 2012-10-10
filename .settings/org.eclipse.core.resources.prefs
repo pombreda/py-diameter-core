@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/PyDccCore/__init__.py=utf-8
+encoding//src/PyDccCore/avp.py=utf-8
+encoding//src/PyDccCore/avp_address.py=utf-8
+encoding//src/PyDccCore/avp_diameteridentity.py=utf-8
+encoding//src/PyDccCore/dcc_config.py=utf-8
+encoding//src/PyDccCore/dcc_defined.py=utf-8
+encoding//src/PyDccCore/msg.py=utf-8
+encoding//test/test.py=utf-8
+encoding/DccTranslate.pyw=utf-8
+encoding/mainFrame.py=utf-8
+encoding/setup.py=utf-8

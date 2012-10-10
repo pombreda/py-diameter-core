@@ -82,6 +82,7 @@ DCC的一些小工具
 
 //TODO:修改判断vendorid的方式
 //TODO:配置放到sqlite数据库内，session管理也放入其中。
+//TODO:添加完善的日志
 '''
 
 # 库版本

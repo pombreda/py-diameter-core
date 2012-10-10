@@ -13,7 +13,7 @@ import const
 const.ETC_PATH = "./src/etc"
 
 # plus 路径
-const.PLUS_PATH = "./plugins"
+const.PLUS_PATH = "./src/plugins"
 
 # 日期格式定义
 const.COMPACTTIMEFORMAT = '%Y%m%d%H%M%S'       #例:20090313102835
