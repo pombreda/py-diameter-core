@@ -10,7 +10,7 @@ Created on 2010-9-4
 import const
 
 # 配置文件路径
-const.ETC_PATH = "./etc"
+const.ETC_PATH = "./src/etc"
 
 # plus 路径
 const.PLUS_PATH = "./plugins"
